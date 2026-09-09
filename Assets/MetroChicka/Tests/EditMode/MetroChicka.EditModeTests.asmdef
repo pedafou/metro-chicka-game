@@ -1,0 +1,13 @@
+{
+  "name": "MetroChicka.EditModeTests",
+  "references": [
+    "MetroChicka.Core"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

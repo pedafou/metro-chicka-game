@@ -1,0 +1,10 @@
+{
+  "name": "MetroChicka.Editor",
+  "references": [
+    "MetroChicka.Runtime",
+    "MetroChicka.Core"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

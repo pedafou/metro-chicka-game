@@ -1,0 +1,7 @@
+{
+  "name": "MetroChicka.Runtime",
+  "references": [
+    "MetroChicka.Core",
+    "UnityEngine.UI"
+  ]
+}

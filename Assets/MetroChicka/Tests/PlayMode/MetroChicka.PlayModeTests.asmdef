@@ -1,0 +1,12 @@
+{
+  "name": "MetroChicka.PlayModeTests",
+  "references": [
+    "MetroChicka.Runtime",
+    "MetroChicka.Core",
+    "UnityEngine.UI"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
